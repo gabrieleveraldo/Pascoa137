@@ -1,0 +1,10 @@
+id,username,firstname,lastname,email,password,phone,userStatus
+1375263253,john,john,lennon,johnlovesyoko@teste.com,paulmccartney,11777777778,0
+1375263254,paul,paul,mccartney,paullovesjohn@teste.com,johnlennon,11999999999,1
+1375263255,george,george,harrison,georgelovesolivia@teste.com,ericclapton,11999999998,1
+1375263256,ringo,ringo,starr,ringolovesbarbara@teste.com,johnturner,11999999997,1
+1375263257,jane,jane,ashley,janelovesjoe@teste.com,janerodriguez,11999999996,1
+1375263258,joe,joe,rodriguez,joelovesjane@teste.com,janeashley,11999999995,1
+1375263259,olivia,olivia,harrison,olivialovesgeorge@teste.com,dhaniharrison,11999999994,1
+1375263260,dhani,dhani,harrison,dhanilovesolivia@teste.com,oliviaharrison,11999999993,1
+1375263261,yoko,yoko,ono,yokolovesjohn@teste.com,johnlennon,11999999992,1

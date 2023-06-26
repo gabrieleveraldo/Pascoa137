@@ -1,0 +1,15 @@
+{
+  "id": 1456789,
+  "category": {
+    "id":123456,
+    "name":"dog"
+  },
+  "name":"Rex",
+  "tags": [
+    {
+      "id": 654321,
+      "name": "feliz"
+    }
+  ],
+  "status": "avaliable"
+}
